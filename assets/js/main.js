@@ -531,7 +531,7 @@
       duration: 400,
       easing: "ease-in-out",
       anchorPlacement: "top-bottom",
-      disable: "mobile",
+      // disable: "mobile",
       once: false,
     });
 
